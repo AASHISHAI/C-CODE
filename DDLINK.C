@@ -54,7 +54,6 @@ void push()
   void main()
   {
   int ch;
-  clrscr();
   while(1)
   {
   printf("\nenter your choice\n1:push\n2:pop\n3:display\n4:exit\n");
