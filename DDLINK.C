@@ -76,5 +76,6 @@ void push()
    printf("enter correct choice");
    }
   }
-  return 0;
+  return0;
   }
+  
